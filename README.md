@@ -1,26 +1,64 @@
-# research_links
+# Research Links
 
-## Related paper searching
-1. [AcademicAgent](https://github.com/Jennyee1/AcademicAgent)
-2. [daily-arXiv-ai-enhanced](https://github.com/dw-dengwei/daily-arXiv-ai-enhanced)
+## Paper Search
 
-## Paper writing
-1. [awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing)
-2. [Memento-Skills](https://github.com/Memento-Teams/Memento-Skills)
+### AcademicAgent
+- Repo: https://github.com/Jennyee1/AcademicAgent
 
-## Figure
-1. [AutoFigure-Edit](https://github.com/ResearAI/AutoFigure-Edit)
-2. [Paper2Any](https://github.com/OpenDCAI/Paper2Any)
+### daily-arXiv-ai-enhanced
+- Repo: https://github.com/dw-dengwei/daily-arXiv-ai-enhanced
 
-## PPT
-1. [paper-ppt-agent](https://github.com/CRui5in/paper-ppt-agent)
-2. [Paper2Any](https://github.com/OpenDCAI/Paper2Any)
-3. [Edit-Banana](https://github.com/BIT-DataLab/Edit-Banana)
+---
 
-## Paper formatting
-1. [PaperFit](https://github.com/OpenRaiser/PaperFit)
+## Paper Writing
 
-## Auto research (to be tested)
-1. [ml-intern](https://github.com/huggingface/ml-intern)
-2. [feynman](https://github.com/companion-inc/feynman)
-3. [Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/tree/main)
+### awesome-ai-research-writing
+- Repo: https://github.com/Leey21/awesome-ai-research-writing
+- Notes:
+  - Nano Banana 直接生成png图片没法修改图片。
+
+### Memento-Skills
+- Repo: https://github.com/Memento-Teams/Memento-Skills
+
+---
+
+## Figure Generation
+
+### AutoFigure-Edit
+- Repo: https://github.com/ResearAI/AutoFigure-Edit
+
+### Paper2Any
+- Repo: https://github.com/OpenDCAI/Paper2Any
+
+---
+
+## PPT Generation
+
+### paper-ppt-agent
+- Repo: https://github.com/CRui5in/paper-ppt-agent
+
+### Paper2Any
+- Repo: https://github.com/OpenDCAI/Paper2Any
+
+### Edit-Banana
+- Repo: https://github.com/BIT-DataLab/Edit-Banana
+
+---
+
+## Paper Formatting
+
+### PaperFit
+- Repo: https://github.com/OpenRaiser/PaperFit
+
+---
+
+## Automated Research (To Test)
+
+### ml-intern
+- Repo: https://github.com/huggingface/ml-intern
+
+### feynman
+- Repo: https://github.com/companion-inc/feynman
+
+### Auto-claude-code-research-in-sleep
+- Repo: https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep
