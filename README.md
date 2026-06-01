@@ -1,5 +1,8 @@
 # research_links
 
+## Related paper searching
+1. [AcademicAgent](https://github.com/Jennyee1/AcademicAgent)
+
 ## Paper writing
 1. [awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing)
 2. editing figures: [AutoFigure-Edit](https://github.com/ResearAI/AutoFigure-Edit)
