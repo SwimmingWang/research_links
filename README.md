@@ -54,6 +54,9 @@
 
 ## Automated Research (To Test)
 
+## autoresearch
+- Repo: https://github.com/karpathy/autoresearch/tree/master
+
 ### ml-intern
 - Repo: https://github.com/huggingface/ml-intern
 
